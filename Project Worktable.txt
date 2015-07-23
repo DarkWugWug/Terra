@@ -1,0 +1,11 @@
+URLS:
+https://open.gl/drawing
+https://github.com/SilverTiger/lwjgl3-tutorial/wiki/Rendering
+https://github.com/SilverTiger/lwjgl3-tutorial/blob/master/src/silvertiger/tutorial/lwjgl/graphic/Shader.java
+https://github.com/SilverTiger/lwjgl3-tutorial/wiki/Textures
+http://wiki.lwjgl.org/wiki/The_Quad_textured
+
+Position:
+Working on getting textures to work.
+In shadermanager.
+Not understanding if I need to impliment more attributes. Used code from SilverTiger but following the wiki.lwjgl.org for it is clearer.
